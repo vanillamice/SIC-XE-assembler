@@ -9,14 +9,23 @@ Documentation:https://www.unf.edu/~cwinton/html/cop3601/supplements/test.html
 Function:
 ===========================================================
 Control Section
+
 Addressing Mode (Flag bit)
+
 Direct Addressing Mode
+
 Indirect Addressing Mode
+
 Simple Addressing Mode
+
 Immediate Addressing Mode
+
 Relative Addressing Mode
+
 Program Counter (PC Register)
+
 Base (Base Register)
+
 Extended Instruction (4bit Instruction)
 
 How it works :
