@@ -58,5 +58,6 @@ sample output:
 
 To Do:
 ---------------------
-continue implementation of linker and loader.
-add GUI
+[1]Continue implementation of linker and loader
+
+[2]Add GUI
