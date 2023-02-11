@@ -31,12 +31,19 @@ Extended Instruction (4bit Instruction)
 How it works :
 =======================================================
 Assign addresses to all statements in source code
+
 Save values (addresses) assigned to labels for use in pass two
+
 Process directives
+
 Translate instructions
+
 Convert labels to addresses
+
 Generate values defined by BYTE and WORD
+
 Process the directives not done in pass one
+
 Write object code
 
 
