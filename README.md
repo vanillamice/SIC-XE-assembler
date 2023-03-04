@@ -1,4 +1,4 @@
-Extended SIC architecture assembler
+Extended SIC/XE architecture assembler
 ============================================
 Links:
 -----------------------------------
