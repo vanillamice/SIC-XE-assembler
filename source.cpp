@@ -20,7 +20,6 @@ string convertToASCII(string letter){ //returns ascii code of entered string. in
     string final;
     for (int i = 0; i < letter.length(); i++)
     {
-
         char x = letter.at(i);
         final = final + to_string(x);
     }
@@ -379,12 +378,7 @@ int main() {
             std::bitset<8> bitt = {(std::stoull(opcode[neww], nullptr, 16))};
             string binary_representation = bitt.to_string();
             part1 = binary_representation.substr(0, binary_representation.length() - 2);
-            //cout << symbols[ref[xi]] << endl;
-            //cout << label[xi] << endl;
-            //cout << format[neww];
             switcheroo = format[neww];
-            //cout << "ENTERED IF CONDITION" << endl;
-
             switch (switcheroo) {
                 case 1:
                     part1 = binary_representation;
